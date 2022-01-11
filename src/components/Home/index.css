@@ -1,0 +1,23 @@
+.theme-home-image-one {
+  height: 120px;
+  width: 120px;
+}
+.image-home-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-heading-styling {
+  color: white;
+  font-family: 'Roboto';
+}
+.image-home-container1 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+}

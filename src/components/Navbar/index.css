@@ -1,0 +1,39 @@
+.webistelogo {
+  height: 70px;
+  width: 70px;
+}
+.themebutton {
+  background-color: transparent;
+  border-width: 0px;
+}
+.link-item {
+  text-decoration: none;
+}
+.background-color {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.background-color1 {
+  padding: 20px;
+  background-color: #333333;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.homeabutunorderlist {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.home-list-item {
+  padding-right: 12px;
+  font-family: Roboto;
+}
+
+.home-list-item1 {
+  padding-right: 12px;
+  font-family: Roboto;
+  color: white;
+}

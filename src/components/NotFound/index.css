@@ -1,0 +1,11 @@
+.theme-home-image-one {
+  height: 120px;
+  width: 120px;
+}
+.image-home-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
